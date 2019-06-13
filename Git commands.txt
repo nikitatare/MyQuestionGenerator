@@ -1,0 +1,11 @@
+To get the starting project:
+git clone "https://github.com/nikitatare/MyQuestionGenerator.git"
+
+
+To push your changes:
+
+git add .
+git commit -m "message"       (here instead of message
+			 write what changes you have done in project)
+git pull
+git push
